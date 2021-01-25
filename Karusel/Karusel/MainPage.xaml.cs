@@ -47,7 +47,7 @@ namespace Karusel
                     {
                         new Label
                         {
-                            Text = "Холерик",
+                            Text = "Холерик - неуравновешенный человек",
                             TextColor = Color.Green,
                             BackgroundColor = Color.Gray,
                             HorizontalTextAlignment = TextAlignment.Center,
@@ -70,7 +70,7 @@ namespace Karusel
                     {
                         new Label
                         {
-                            Text = "Сангвиник",
+                            Text = "Сангвиник - подвижный",
                             TextColor = Color.Orange,
                             BackgroundColor = Color.Gray,
                             HorizontalTextAlignment = TextAlignment.Center,
@@ -93,7 +93,7 @@ namespace Karusel
                     {
                         new Label
                         {
-                            Text = "Флегматик",
+                            Text = "Флегматик - спокойный",
                             TextColor = Color.Purple,
                             BackgroundColor = Color.Gray,
                             HorizontalTextAlignment = TextAlignment.Center,
@@ -116,7 +116,7 @@ namespace Karusel
                     {
                         new Label
                         {
-                            Text = "Меланхолик",
+                            Text = "Меланхолик - грустный",
                             TextColor = Color.Chocolate,
                             BackgroundColor = Color.Gray,
                             HorizontalTextAlignment = TextAlignment.Center,
