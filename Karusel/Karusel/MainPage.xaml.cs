@@ -9,9 +9,9 @@ using Xamarin.Forms;
 
 namespace Karusel
 {
-    public partial class MainPage : ContentPage
+    public partial class Carousel : ContentPage
     {
-        public MainPage()
+        public Carousel()
         {
             ImageButton btn1;
             ImageButton btn2;
